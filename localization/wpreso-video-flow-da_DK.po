@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPreso_Video_Flow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-03 11:08-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: WPreso <trans@wpreso.com>\n"
+"Language-Team: WPreso <trans@wpreso.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\x-server\\xampp\\htdocs\\privat\\wpreso\\site\\wp-content\\plugins\\wpreso-video-flow\n"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/wpreso-video-flow.php:41
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:18
+msgid "WPreso Video Flow Options"
+msgstr "WPreso Video Flow Indstillinger"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:18
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:73
+msgid "WPreso Video Flow"
+msgstr "WPreso Video Flow"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:27
+msgid "WPreso Video Flow Settings"
+msgstr "WPreso Video Flow Indstillinger"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:32
+msgid "Default category(ies) by comma separated ids"
+msgstr "Standard kategori (er) via kommasepareret id numre"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:33
+msgid "Add a minus sign (-) in front of the id to exclude the category - No spaces"
+msgstr "Tilføj et minustegn (-) foranet  id nummer at udelukke denne kategori - Ingen mellemrum"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:35
+msgid "Default number of posts"
+msgstr "Standard antal indlæg"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:38
+msgid "Default post offset"
+msgstr "Standard indlæg offset"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:41
+msgid "Enable random posts"
+msgstr "Aktiver tilfældigt indlæg"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:44
+msgid "Enable reflection on images"
+msgstr "Aktiver spejling på billederne"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:47
+msgid "Enable slider and buttons"
+msgstr "Aktiver skyder og knapper"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:50
+msgid "Enable caption for images"
+msgstr "Aktiver billedtekst til billederne"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:53
+msgid "Explude posts from VideoFlow by comma separated ids"
+msgstr "Udeluk indlæg fra VideoFlow via komma separeret id numre"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:54
+msgid "No spaces"
+msgstr "Ingen mellemrum"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:58
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:62
+msgid "Help"
+msgstr "Hjælp"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:64
+msgid "You can override the default functions in the shortcode like this"
+msgstr "Du kan tilsidesætte standard indstillingerne i shortcode som dette"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:68
+msgid "You can override the default functions in the template function like this"
+msgstr "Du kan tilsidesætte standard indstilligerne i skabelonen funktionen som denne"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:73
+msgid "For more help on setting up WPreso Video Flow, please visit"
+msgstr "For mere hjælp til at indstille  WPreso Video Flow, kan du besøge"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:77
+msgid "Credits"
+msgstr "Tak"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:79
+msgid "for their software, which is awesome"
+msgstr "for deres software"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:80
+msgid "for a superb and easy to use video plugin"
+msgstr "for deres video plugin som er meget nem at bruge"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:81
+msgid "for a sweet javascript cover flow script"
+msgstr "for deres javascript cover flow script"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:81
+msgid "Commercial sites need a license to use the script"
+msgstr "Kommercielle sites har brug for en licens for at bruge scriptet"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:82
+msgid "for a great tutorial on option pages"
+msgstr "for deres artikel om indstillings sider"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:83
+msgid "for a smashing tutorial on shortcodes"
+msgstr "for deres artikel om shortcodes"
+
+#: C:\x-server\xampp\htdocs\privat\wpreso\site\wp-content\plugins\wpreso-video-flow/lib/plugin-options.php:84
+msgid "for making it simple to extract video image information"
+msgstr "for at gøre det simpelt at få adgang til video billedet"
+
